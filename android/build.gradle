@@ -13,6 +13,7 @@ android {
 }
 
 dependencies {
-  compile "com.facebook.react:react-native:0.19.+"
-  compile "com.google.gms:google-services:3.0.0"
+  compile "com.facebook.react:react-native:+"
+  compile "com.google.gms:google-services"
+  compile "com.google.firebase:firebase-auth:9.0.1"
 }
